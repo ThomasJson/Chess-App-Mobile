@@ -1,0 +1,53 @@
+header {
+    height: 7vh;
+    justify-content: space-between;
+    align-items: center;
+}
+#logo {
+    width: 30%;
+    margin-left: 10px;
+}
+#titre {
+    font-family: "Raleway-LightItalic";
+    font-size: 1em;
+    text-align: center;
+}
+#user {
+    width: 30%;
+    margin-right: 10px;
+}
+#user p {
+    text-align: end;
+}
+main {
+    height: 86vh;
+    align-items: center;
+}
+form {
+    width: 70%;
+}
+main div {
+    height: 25%;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#save-btn-bloc {
+    justify-content: center;
+}
+form button {
+    width: 40%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0.3px;
+    /* background-color: #04aa6dc9; */
+}
+footer {
+    height: 7vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+nav {
+    width: 100%;
+    justify-content: space-evenly;
+}
